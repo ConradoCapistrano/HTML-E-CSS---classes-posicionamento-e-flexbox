@@ -4,6 +4,8 @@
 
 Este projeto foi uma jornada de aprendizado em HTML e CSS, com ênfase em três áreas-chave: classes, posicionamento e flexbox, obtidos durante o curso do Alura.
 
+Obs : O projeto nao foi projetado para ser responsivo!
+
 ## Tecnologias utilizadas
 
 ### Front end : 
@@ -18,8 +20,9 @@ git clone https://github.com/ConradoCapistrano/HTML-E-CSS---classes-posicionamen
 ```
 
 ### Acessar o Site do Projeto :
-[https://spa-animate-conrado-capistrano.netlify.app/]
-[![Netlify Status](https://api.netlify.com/api/v1/badges/853dda2c-d55f-4d8f-b5ae-74056941a9ef/deploy-status)](https://app.netlify.com/sites/spa-animate-conrado-capistrano/deploys)
+[https://conradocapistranohtml1.netlify.app/]
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6de362d8-de9a-4139-8359-5205c3f4f113/deploy-status)](https://app.netlify.com/sites/conradocapistranohtml1/deploys)
 
 # Creator / Autor
 
