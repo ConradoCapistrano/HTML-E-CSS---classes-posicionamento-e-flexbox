@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto foi uma jornada de aprendizado em HTML e CSS, com ênfase em três áreas-chave: classes, posicionamento e flexbox, obtidos durante o curso do Alura.
+Este projeto foi uma jornada de aprendizado em HTML e CSS, com ênfase em três áreas-chave: classes, posicionamento e flexbox.
 
 Obs : O projeto nao foi projetado para ser responsivo!
 
